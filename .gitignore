@@ -7,7 +7,6 @@ Thumbs.db
 
 # Documentation/Backups
 documentation/
-database/
 *.pdf
 *.bak
 *.tmp
